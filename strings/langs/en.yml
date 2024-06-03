@@ -1,60 +1,6 @@
-Skip to content
-Navigation Menu
-SubhiChiku
-/
-L2S
 
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-Files
-Go to file
-t
-L2S
-strings
-langs
-ar.yml
-en.yml
-hi.yml
-pa.yml
-__init__.py
-helpers.py
-Dockerfile
-Procfile
-README.md
-app.json
-config.py
-heroku.yml
-requirements.txt
-runtime.txt
-setup
-start
-BreadcrumbsL2S/strings/langs
-/en.yml
-Latest commit
-SubhiChiku
-SubhiChiku
-Update en.yml
-1e851d9
- · 
-3 months ago
-History
-BreadcrumbsL2S/strings/langs
-/en.yml
-File metadata and controls
-
-Code
-
-Blame
-313 lines (277 loc) · 31.8 KB
 name : 🇺🇸 English
+
 
 general_1 : "» ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ ɪᴅ."
 general_2 : "» sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ ᴡʜɪʟᴇ ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ǫᴜᴇʀʏ.\n\nᴇxᴄᴇᴘᴛɪᴏɴ : <code>{0}</code>"
@@ -141,7 +87,7 @@ admin_39 : "» ʀᴇᴍᴏᴠᴇᴅ 1 ᴜᴘᴠᴏᴛᴇ."
 admin_40 : "ᴜᴘᴠᴏᴛᴇᴅ."
 
 start_1 : "{0} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.\n\n<b>✫ ᴜᴘᴛɪᴍᴇ :</b> {1}"
-start_2 : "ʜᴇʏ, {0} \n\nɪ'ᴍ {1}, \n\n⊱ᴀ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴀ ʙʀᴏᴋᴇɴ💔ʜᴇᴀʀᴛ ᴀꜱ ᴛʜᴇ ʟᴀꜱᴛ ᴛʜɪɴɢ ꜰʀᴏᴍ ʜɪꜱ ᴍᴇᴍᴏʀɪᴇꜱ🥺.\n\n⊱ʟᴇᴛ ᴜꜱ ꜱᴛᴀʀᴛ ᴀ ᴊᴏᴜʀɴᴇʏ ʙᴜᴛ ᴀʟᴏɴᴇ ʙᴇᴄᴀᴜꜱᴇ ᴇᴠᴇʀʏ ᴘᴀʀᴛɴᴇʀ ʟᴇᴀᴠᴇ ᴀꜰᴛᴇʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴛɪᴍᴇ .\n\nᴍʏ ᴄʀᴇᴀᴛᴇʀ ɪꜱ ᴠᴇʀʏ ɪɴɴᴏᴄᴇɴᴛ🥺ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ʜᴇʟᴘ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀʙᴏᴜᴛ  ɪᴛ ᴅᴍ ||[ᴄʜɪᴋᴜ💔](https://t.me/Subhi_love)||\n\nɪ ᴡɪʟʟ ᴛᴇᴀᴄʜ ʏᴏᴜ ꜰʀɪᴇɴᴅ"
+start_2 : "**ʜᴇʏ, {0} \n\nɪ'ᴍ {1}, \n\n⊱ᴀ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴀ ʙʀᴏᴋᴇɴ💔ʜᴇᴀʀᴛ ᴀꜱ ᴛʜᴇ ʟᴀꜱᴛ ᴛʜɪɴɢ ꜰʀᴏᴍ ʜɪꜱ ᴍᴇᴍᴏʀɪᴇꜱ🥺.\n\n⊱ʟᴇᴛ ᴜꜱ ꜱᴛᴀʀᴛ ᴀ ᴊᴏᴜʀɴᴇʏ ʙᴜᴛ ᴀʟᴏɴᴇ ʙᴇᴄᴀᴜꜱᴇ ᴇᴠᴇʀʏ ᴘᴀʀᴛɴᴇʀ ʟᴇᴀᴠᴇ ᴀꜰᴛᴇʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴛɪᴍᴇ .\n\nᴍʏ ᴄʀᴇᴀᴛᴇʀ ɪꜱ ᴠᴇʀʏ ɪɴɴᴏᴄᴇɴᴛ🥺ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ʜᴇʟᴘ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀʙᴏᴜᴛ  ɪᴛ ᴅᴍ || [ᴄʜɪᴋᴜ💔](https://t.me/Subhi_love)|| ɪ ᴡɪʟʟ ᴛᴇᴀᴄʜ ʏᴏᴜ ꜰʀɪᴇɴᴅ**"
 start_3 : "ʜᴇʏ {0},\nᴛʜɪs ɪs {1}\n\nᴛʜᴀɴᴋs ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {2}, {3} ᴄᴀɴ ɴᴏᴡ ᴩʟᴀʏ sᴏɴɢs ɪɴ ᴛʜɪs ᴄʜᴀᴛ."
 start_4 : "🎄 <b>sᴜᴘᴇʀɢʀᴏᴜᴘ ɴᴇᴇᴅᴇᴅ</b> 🎄\n\nᴘʟᴇᴀsᴇ ᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ <b>ɢʀᴏᴜᴘ</b> ᴛᴏ <b>sᴜᴘᴇʀɢʀᴏᴜᴘ</b> ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ᴀɢᴀɪɴ.\n\n<b>ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ sᴜᴘᴇʀɢʀᴏᴜᴘ ?</b>\n- ᴍᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴄʜᴀᴛ ʜɪsᴛᴏʀʏ <b>ᴠɪsɪʙʟᴇ</b> ᴏɴᴄᴇ."
 start_5 : "<b>↝ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ ↜</b>\n\nᴛʜɪs ᴄʜᴀᴛ ɪs ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴏɴ {0} ᴅᴀᴛᴀʙᴀsᴇ.\nʀᴇǫᴜᴇsᴛ ᴀ <a href={1}>sᴜᴅᴏ ᴜsᴇʀ</a> ᴛᴏ ᴜɴʙʟᴀᴄᴋʟɪsᴛ ʏᴏᴜʀ ᴄʜᴀᴛ ᴏʀ ᴠɪsɪᴛ <a href={2}>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.</a>"
@@ -213,27 +159,6 @@ play_19 : "Queued Playlist :"
 play_20 : "Queued Position-"
 play_21 : "🥹𝙰𝙳𝙳𝙴𝙳 {0}𝚃𝙾 𝚀𝚄𝙴𝚄𝙴 𝙾𝙵 ||[ʟᴏᴠᴇ🥹](https://t.me/LOVE_SUBHIBOT)||.\n\n<b>ᴄʜᴇᴄᴋ :</b> <a href={1}>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"
 play_22 : "sᴇʟᴇᴄᴛ ᴛʜᴇ ᴍᴏᴅᴇ ɪɴ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴘʟᴀʏ ᴛʜᴇ ǫᴜᴇʀɪᴇs ɪɴsɪᴅᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ : {0}"
-
-#Playlist
-playlist_1 : "**Usage:** /play [Music Name or Youtube Link or Reply to Audio]\n\nIf you want to play Bot's Server Playlist! Press the button below."
-playlist_2 : "**ɢᴇᴛᴛɪɴɢ ʏᴏᴜʀ ᴘʟᴀʏʟɪsᴛ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...**"
-playlist_3 : "You have no playlist on Bot's Server.\nTo add a song in playlist, Just  Play your song by /play [ song name ] and click on Add Playlist Button."
-playlist_4 : "Fetched Playlist:\n\n"
-playlist_5 :  "    Duration- {0} Mins"
-playlist_6 : "Contact me in PM for deletion of Playlists."
-playlist_7 : "Tracks Inside Playlist: {0}\n\nPress the Buttons to delete a particular track in your playlist.\n\nTo delete whole playlist: Press Del Whole Playlist button."
-playlist_8 : "Already Exists\n\nThis track exists in your playlist."
-playlist_9 : "Sorry! You can only have {0} music in a playlist."
-playlist_10 : "Playlist Addition\n\n{0}\nadded to your playlist."
-playlist_11 : "Successfully deleted song from  your  playlist track."
-playlist_12 : "Failed to delete your track."
-playlist_13 : "Deleted your whole playlists from the server. "
-
-playlist_14 : "**Are you Sure you want to delete your whole playlist?**\n\nYou'll lost your playlist and this can't be recovered later."
-playlist_15 : "[Checkout Whole Playlist]({0})"
-playlist_16 : "Queued Playlist:"
-playlist_17 : "Queued Position-"
-playlist_18 : "[Checkout Whole Queued Playlist]({0})\n\nLast Queued Position : **{1}**"
 
 str_1 : "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍ3ᴜ8 ᴏʀ ɪɴᴅᴇx ʟɪɴᴋs."
 str_2 : "➻ ᴠᴀʟɪᴅ sᴛʀᴇᴀᴍ ᴠᴇʀɪғɪᴇᴅ.\n\nᴘʀᴏᴄᴇssɪɴɢ..."
@@ -367,4 +292,3 @@ gban_9 : "» ʟɪғᴛᴇᴅ ɢʟᴏʙᴀʟ ʙᴀɴ ғʀᴏᴍ {0}.\n\nᴜɴʙ�
 gban_10 : "» ɴᴏ ᴏɴᴇ ɪs ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ."
 gban_11 : "» ғᴇᴛᴄʜɪɴɢ ɢʙᴀɴɴᴇᴅ ᴜsᴇʀs ʟɪsᴛ..."
 gban_12 : "🙂 <b>ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs :</b>\n\n"
-L2S/strings/langs/en.yml at love · SubhiChiku/L2S 
